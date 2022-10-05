@@ -1,0 +1,16 @@
+
+Objetos : es como si fuera un array, solo que en vez de buscar lo que contiene a traves de numeros, lo buscamos por 
+palabras clave.  
+
+
+Propiedades: las propiedades estan dentro de los objetos, estas propiedades pueden mantener cualquier tipo de datos.
+
+
+Metodos: los metodos son funciones, cuando nosotros ponemos una funcion dentro de un objeto se pasa a llamar metodo. se invocan a traves de puntos y parentesis finales.
+
+
+Bluces 'for ...in': cuando nosotros queremos mandar sobre cada palabra clave nosotros usamos el bucle for...in ya que es mas directo en su trabajo de iterar, porque las palabras estandar no funcionara.
+
+
+Notacion de puntos vs Notacion de corchetes: los puntos sirven par acceder a propiedades del objeto. se usa poniendo el nombre del objeto, el punto, el nombre de la propiedad. Ej: objeto.propiedad.
+La notacion se usa para lo mismo, solo que se puede usar tambien en los array, sirve para guardar datos, o para poder buscar datos del objeto. Ej: objeto['propiedad'], y la porpiedad va entre comillas si es lo que quiere buscar dentro del objeto.

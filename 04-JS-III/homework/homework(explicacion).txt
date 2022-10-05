@@ -1,0 +1,3 @@
+
+Array :
+los Arrays son como cajas en donde se pueden poner mas cosas que en una variable. Tambien es una forma para manter nuestro codigo mas limpiendo, pudiendo elegir y sacar las cosas que nosotros le hayamos puesto anteriormente. 
