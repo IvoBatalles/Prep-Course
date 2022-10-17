@@ -1,0 +1,5 @@
+
+Prototype : Siempre que creamos un objeto usamos el prototype, ya que contiene muchos metodos que podemos usar, tambien podemos crear metodos.
+
+
+Constructor : El metodo Constructor sirve para formar objetos, ya que podemos poner diferente tipos de datos adentro de el.
